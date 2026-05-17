@@ -30,3 +30,8 @@ using LoRA/QLoRA on a balanced dataset of 120 labeled examples.
 - Python, HuggingFace Transformers, PEFT, TRL, Google Colab
 - Model: HuggingFaceTB/SmolLM2-1.7B-Instruct
 - Dataset: shawhin/phishing-site-classification
+
+## Author
+ 
+Kazumasa Iinuma — Applied Mathematics, Boston University  
+[GitHub](https://github.com/kiinuma) · [LinkedIn](https://linkedin.com/in/kazumasa-iinuma)
